@@ -1,0 +1,14 @@
+PipelineStages.json
+com/streamsets/stage/destination/riak/RiakTarget$1.class
+com/streamsets/stage/lib/riak/RiakFieldMappingConfig.class
+com/streamsets/stage/destination/riak/RiakTarget$RecordWriterLoader.class
+com/streamsets/stage/destination/riak/Groups.class
+com/streamsets/stage/destination/riak/RiakDTarget.class
+com/streamsets/stage/lib/riak/RiakBaseRecordWriter.class
+com/streamsets/stage/lib/riak/Errors.class
+com/streamsets/stage/destination/riak/RiakTarget.class
+ElDefinitions.json
+com/streamsets/stage/lib/riak/RiakRecordWriter.class
+datacollector-resource-bundles.json
+com/streamsets/stage/lib/riak/RiakGenericRecordWriter.class
+com/streamsets/stage/lib/riak/RiakMultiRowRecordWriter.class

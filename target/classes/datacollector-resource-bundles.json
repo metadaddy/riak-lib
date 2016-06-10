@@ -1,0 +1,5 @@
+[
+  "com.streamsets.stage.destination.riak.RiakDTarget",
+  "com.streamsets.stage.destination.riak.Groups",
+  "com.streamsets.stage.lib.riak.Errors"
+]
