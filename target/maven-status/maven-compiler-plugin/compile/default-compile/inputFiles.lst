@@ -1,9 +1,0 @@
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/lib/riak/RiakMultiRowRecordWriter.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/lib/riak/RiakBaseRecordWriter.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/destination/riak/RiakTarget.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/lib/riak/RiakRecordWriter.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/destination/riak/Groups.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/destination/riak/RiakDTarget.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/lib/riak/RiakGenericRecordWriter.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/lib/riak/RiakFieldMappingConfig.java
-/Users/pat/src/riak-lib/src/main/java/com/streamsets/stage/lib/riak/Errors.java
